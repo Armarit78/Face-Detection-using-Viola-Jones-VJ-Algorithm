@@ -1,5 +1,3 @@
-# Face-Detection-using-Viola-Jones-VJ-Algorithm
-
 # Face Detection using Viola-Jones (VJ) Algorithm
 
 This project implements a real-time face detection system using the Viola-Jones (VJ) algorithm with OpenCV. Our goal is to develop an efficient and accurate face detection model that performs well under different conditions. This repository contains the code, dataset, and scripts used for training, testing, and evaluating the model.
